@@ -1,6 +1,6 @@
 # 長沙 HOH Hackerhouse
 
-2025年3月，長沙 HOH Hackerhouse 參與心得與資源。
+2026年3月，長沙 HOH Hackerhouse 參與心得與資源。
 
 ## Resources
 
