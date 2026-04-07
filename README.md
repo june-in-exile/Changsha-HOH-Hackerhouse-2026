@@ -1,6 +1,16 @@
 # 長沙 HOH Hackerhouse
 
-2026年3月，長沙 HOH Hackerhouse 參與心得與資源。
+2025年3月，長沙 HOH Hackerhouse 參與心得與資源。
+
+## Usage
+
+用瀏覽器直接開啟簡報：
+
+```bash
+open hacker_house_ppt.html
+```
+
+使用鍵盤左右鍵或螢幕滑動切換頁面。
 
 ## Resources
 
